@@ -16,3 +16,5 @@ __pycache__/
 .venv
 venv/
 ENV/
+rnn-136471.zip
+rnn-result-136471.json
